@@ -64,4 +64,4 @@ AR Foundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/
 
 Snapdragon Spaces - https://spaces.qualcomm.com
 
-Sceneview - https://github.com/SceneView/sceneview-android
+Sceneview(More research needed) - https://github.com/SceneView/sceneview-android
