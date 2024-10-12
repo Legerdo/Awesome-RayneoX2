@@ -13,8 +13,7 @@ Rayneo X2 관련 정보 정리
     - [Compatible-Webview](#Compatible-Webview)
     
 - [Uncompatible](#Uncompatible)
-    - [Uncompatible-Android](#Uncompatible-Android)
-    - [Uncompatible-Unity](#Uncompatible-Unity)
+    - [Uncompatible-Unity/Android](#Uncompatible-Unity/Android)
 
 # Unity-Compatible
 
