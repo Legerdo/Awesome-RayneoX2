@@ -36,6 +36,8 @@ Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
 
 TensorFlow Lite - https://github.com/asus4/tf-lite-unity-sample
 
+OpenCV - https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
+
 ## Unity-GPS
 
 Mapbox - https://docs.mapbox.com/unity/maps/guides/
