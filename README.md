@@ -6,6 +6,7 @@ Rayneo X2 관련 정보 정리
 - [Unity-Compatible](#Unity)
     - [Unity-AR](#Unity-AR)
     - [Unity-ML](#Unity-ML)
+    - [Unity-AI](#Unity-AI)
     - [Unity-GPS](#Unity-GPS)
     - [Unity-Webview](#Unity-Webview)
 
@@ -37,6 +38,10 @@ Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
 TensorFlow Lite - https://github.com/asus4/tf-lite-unity-sample
 
 OpenCV - https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
+
+## Unity-AI
+
+OpenAI - https://github.com/RageAgainstThePixel/com.openai.unity
 
 ## Unity-GPS
 
