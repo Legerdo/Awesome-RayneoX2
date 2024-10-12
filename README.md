@@ -40,6 +40,10 @@ TLabWebView - https://github.com/TLabAltoh/TLabWebView
 
 gree/Webview - https://github.com/gree/unity-webview/tree/experimental/unity-over-native-ui
 
+3d-webview - https://assetstore.unity.com/packages/tools/gui/3d-webview-for-android-web-browser-137030
+
+UniWebView 5 - https://docs.uniwebview.com/guide/render-as-texture.html
+
 # Uncompatible
 
 ## Uncompatible-Unity
