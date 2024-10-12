@@ -36,6 +36,8 @@ TensorFlow Lite - https://github.com/asus4/tf-lite-unity-sample
 
 Mapbox - https://docs.mapbox.com/unity/maps/guides/
 
+GoogleMaps - https://mapsplatform.google.com/
+
 ## Unity-Webview
 
 TLabWebView - https://github.com/TLabAltoh/TLabWebView
