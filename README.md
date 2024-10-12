@@ -1,5 +1,5 @@
 # Awesome-RayneoX2
-Rayneo X2 관련 정보 정리
+Rayneo X2 관련 프로젝트에서 사용할만한 유용한 라이브러리
 
 # 목차
  
@@ -7,6 +7,7 @@ Rayneo X2 관련 정보 정리
     - [Unity-AR](#Unity-AR)
     - [Unity-ML](#Unity-ML)
     - [Unity-AI](#Unity-AI)
+    - [Unity-Video](#Unity-Video)
     - [Unity-GPS](#Unity-GPS)
     - [Unity-Webview](#Unity-Webview)
 
@@ -42,6 +43,10 @@ OpenCV - https://assetstore.unity.com/packages/tools/integration/opencv-for-unit
 ## Unity-AI
 
 OpenAI - https://github.com/RageAgainstThePixel/com.openai.unity
+
+## Unity-Video
+
+UnityYoutubePlayer - https://github.com/iBicha/UnityYoutubePlayer
 
 ## Unity-GPS
 
