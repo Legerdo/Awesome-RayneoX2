@@ -2,9 +2,6 @@
 Rayneo X2 관련 정보 정리
 
 # 목차
-
-- [Android-Compatible](#Android)
-    - [Android-AR](#Android-AR)
  
 - [Unity-Compatible](#Unity)
     - [Unity-AR](#Unity-AR)
@@ -18,12 +15,6 @@ Rayneo X2 관련 정보 정리
 - [Uncompatible](#Uncompatible)
     - [Uncompatible-Android](#Uncompatible-Android)
     - [Uncompatible-Unity](#Uncompatible-Unity)
-
-# Android-Compatible
-
-## Android-AR
-
-Sceneview - https://github.com/SceneView/sceneview-android
 
 # Unity-Compatible
 
@@ -65,8 +56,10 @@ AR.js - https://ar-js-org.github.io/AR.js-Docs/
 
 # Uncompatible
 
-## Uncompatible-Unity
+## Uncompatible-Unity/Android
 
 AR Foundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/index.html
 
 Snapdragon Spaces - https://spaces.qualcomm.com
+
+Sceneview - https://github.com/SceneView/sceneview-android
