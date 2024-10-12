@@ -24,6 +24,8 @@ Vuforia - https://developer.vuforia.com/home
 
 Maxst - https://maxst.com/AR_Platform/
 
+EasyAR - https://www.easyar.com
+
 ## Unity-ML
 
 Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
