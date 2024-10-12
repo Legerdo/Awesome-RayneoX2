@@ -3,10 +3,10 @@ Rayneo X2 관련 정보 정리
 
 # 목차
 
-- [Android](#Android)
+- [Android-Compatible](#Android)
     - [Android-AR](#Android-AR)
  
-- [Unity](#Unity)
+- [Unity-Compatible](#Unity)
     - [Unity-AR](#Unity-AR)
     - [Unity-ML](#Unity-ML)
     - [Unity-GPS](#Unity-GPS)
@@ -19,11 +19,11 @@ Rayneo X2 관련 정보 정리
     - [Uncompatible-Android](#Uncompatible-Android)
     - [Uncompatible-Unity](#Uncompatible-Unity)
 
-# Android
+# Android-Compatible
 
 ## Android-AR
 
-# Unity
+# Unity-Compatible
 
 ## Unity-AR
 
