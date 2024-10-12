@@ -13,7 +13,6 @@ Rayneo X2 관련 정보 정리
     - [Compatible-Webview](#Compatible-Webview)
     
 - [Uncompatible](#Uncompatible)
-    - [Uncompatible-Unity/Android](#Uncompatible-Unity/Android)
 
 # Unity-Compatible
 
@@ -64,8 +63,6 @@ Aframe.io - https://aframe.io/
 AR.js - https://ar-js-org.github.io/AR.js-Docs/
 
 # Uncompatible
-
-## Uncompatible-Unity/Android
 
 AR Foundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/index.html
 
