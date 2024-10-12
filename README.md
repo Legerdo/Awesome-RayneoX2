@@ -34,6 +34,10 @@ Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
 
 TensorFlow Lite - https://github.com/asus4/tf-lite-unity-sample
 
+## Unity-GPS
+
+Mapbox - https://docs.mapbox.com/unity/maps/guides/
+
 ## Unity-Webview
 
 TLabWebView - https://github.com/TLabAltoh/TLabWebView
