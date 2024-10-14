@@ -91,6 +91,8 @@ AR.js - https://ar-js-org.github.io/AR.js-Docs/
 
 AR Foundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/index.html
 
+Notifications - https://developer.android.com/develop/ui/views/notifications
+
 Snapdragon Spaces - https://spaces.qualcomm.com
 
 Sceneview/AR Core - https://github.com/SceneView/sceneview-android, https://developers.google.com/ar
