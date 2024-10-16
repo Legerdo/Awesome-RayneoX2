@@ -8,6 +8,7 @@ Rayneo X2 관련 프로젝트에서 사용할만한 유용한 라이브러리( �
     - [Unity-ML](#Unity-ML)
     - [Unity-AI](#Unity-AI)
     - [Unity-STT](#Unity-STT)
+    - [Unity-OCR](#Unity-OCR)
     - [Unity-Video](#Unity-Video)
     - [Unity-GPS](#Unity-GPS)
     - [Unity-Webview](#Unity-Webview)
@@ -53,6 +54,10 @@ OpenAI-Unity - https://github.com/srcnalt/OpenAI-Unity
 ## Unity-STT
 
 whisper.unity - https://github.com/Macoron/whisper.unity
+
+## Unity-OCR
+
+Tesseract - https://github.com/Neelarghya/tesseract-unity
 
 ## Unity-Video
 
