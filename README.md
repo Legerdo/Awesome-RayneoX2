@@ -33,7 +33,8 @@ Vuforia - https://developer.vuforia.com/home
 
 Maxst - https://maxst.com/AR_Platform/
 
-EasyAR - https://www.easyar.com
+EasyAR - https://www.easyar.com</br>
+EasyAR Extension Example - https://leiniao-ibg.feishu.cn/file/UhQob7gDGoFISxxaymCciEQ8nko
 
 ## Unity-ML
 
