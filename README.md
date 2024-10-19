@@ -112,4 +112,5 @@ I-XRAY - https://www.youtube.com/watch?v=gHrSXe1cElI
 
 Mobile Bluetooth Controller</br>
 https://play.google.com/store/apps/details?id=io.appground.blek / https://play.google.com/store/apps/details?id=io.appground.blekpremium</br>
-https://play.google.com/store/apps/details?id=com.jb.bluetoothbuttons
+https://play.google.com/store/apps/details?id=com.jb.bluetoothbuttons</br>
+https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect
