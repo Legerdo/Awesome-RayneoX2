@@ -118,6 +118,8 @@ Snapdragon Spaces - https://spaces.qualcomm.com
 
 Sceneview/AR Core - https://github.com/SceneView/sceneview-android, https://developers.google.com/ar
 
+Google Play Services
+
 Notifications / Background Task / Multitasking / Native SoftKeyboard
 
 # Information
