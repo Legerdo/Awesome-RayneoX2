@@ -115,6 +115,8 @@ Aframe.io - https://aframe.io/
 
 AR.js - https://ar-js-org.github.io/AR.js-Docs/
 
+8thwall - https://www.8thwall.com/pricing
+
 # Uncompatible
 
 호환되지 않거나 일부 기능이 제한됨.
