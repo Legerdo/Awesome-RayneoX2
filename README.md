@@ -109,6 +109,8 @@ AR.js - https://ar-js-org.github.io/AR.js-Docs/
 
 # Uncompatible
 
+호환되지 않거나 일부 기능이 제한됨.
+
 AR Foundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/index.html
 
 Snapdragon Spaces - https://spaces.qualcomm.com
