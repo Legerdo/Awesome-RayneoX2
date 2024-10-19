@@ -106,6 +106,8 @@ Snapdragon Spaces - https://spaces.qualcomm.com
 Sceneview/AR Core - https://github.com/SceneView/sceneview-android, https://developers.google.com/ar
 
 # Information
-RayneoX2와 직접 관련이 없더라도 아이디어를 얻을 수 있는 정보 정리
+RayneoX2와 직접 관련이 없더라도 아이디어를 얻을 수 있는 정보 및 에셋/앱 정리
 
 I-XRAY - https://www.youtube.com/watch?v=gHrSXe1cElI
+
+mobile bluetooth controller - https://play.google.com/store/apps/details?id=io.appground.blekpremium
