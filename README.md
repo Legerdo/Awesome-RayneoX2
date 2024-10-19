@@ -95,6 +95,8 @@ vision - https://cloud.google.com/vision
 
 azrue - https://azrue.microsoft.com/
 
+clarifai - https://docs.clarifai.com/
+
 # Compatible
 
 ## Compatible-Webview
