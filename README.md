@@ -111,13 +111,11 @@ AR.js - https://ar-js-org.github.io/AR.js-Docs/
 
 AR Foundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/index.html
 
-Notifications - https://developer.android.com/develop/ui/views/notifications
-
 Snapdragon Spaces - https://spaces.qualcomm.com
 
 Sceneview/AR Core - https://github.com/SceneView/sceneview-android, https://developers.google.com/ar
 
-Background Task / Multitasking
+Notifications / Background Task / Multitasking
 
 # Information
 RayneoX2와 직접 관련이 없더라도 아이디어를 얻을 수 있는 정보 및 에셋/앱 정리
