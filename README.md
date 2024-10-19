@@ -110,4 +110,6 @@ RayneoX2와 직접 관련이 없더라도 아이디어를 얻을 수 있는 정�
 
 I-XRAY - https://www.youtube.com/watch?v=gHrSXe1cElI
 
-mobile bluetooth controller - https://play.google.com/store/apps/details?id=io.appground.blekpremium
+Mobile Bluetooth Controller</br>
+https://play.google.com/store/apps/details?id=io.appground.blek / https://play.google.com/store/apps/details?id=io.appground.blekpremium</br>
+https://play.google.com/store/apps/details?id=com.jb.bluetoothbuttons
