@@ -127,7 +127,7 @@ Snapdragon Spaces - https://spaces.qualcomm.com
 
 Sceneview/AR Core - https://github.com/SceneView/sceneview-android, https://developers.google.com/ar
 
-Google Play Services
+Google Play Services - FusedLocationProviderClient 같은 GPS 서비스도 사용이 불가능
 
 Bluetooth - 링 및 휴대폰을 제외한 다른 기기와의 연결이 원활하지 않음 </br>
 Notifications / Background Task / Multitasking / Native SoftKeyboard
