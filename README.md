@@ -104,28 +104,6 @@ dropbox-sdk-dotnet - https://github.com/dropbox/dropbox-sdk-dotnet
 
 unity-google-drive - https://github.com/elringus/unity-google-drive/tree/main
 
-# API
-
-vision - https://cloud.google.com/vision
-
-azrue - https://azrue.microsoft.com/
-
-clarifai - https://docs.clarifai.com/
-
-# Compatible
-
-## Compatible-Webview
-
-MindAR - https://github.com/hiukim/mind-ar-js
-
-Aframe.io - https://aframe.io/
-
-AR.js - https://ar-js-org.github.io/AR.js-Docs/
-
-8thwall - https://www.8thwall.com/pricing
-
-face-api.js - https://justadudewhohacks.github.io/face-api.js/docs/index.html
-
 # Uncompatible
 
 호환되지 않거나 일부 기능이 제한됨.
