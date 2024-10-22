@@ -16,11 +16,6 @@ Rayneo X2 관련 프로젝트에서 사용할만한 유용한 라이브러리( �
     - [Unity-Keyboard](#Unity-Keyboard)
     - [Unity-Storage](#Unity-Storage)
 
-- [API](#API)
-
-- [Compatible](#Compatible)
-    - [Compatible-Webview](#Compatible-Webview)
-    
 - [Uncompatible](#Uncompatible)
 
 - [Information](#Information)
