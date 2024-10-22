@@ -124,6 +124,8 @@ AR.js - https://ar-js-org.github.io/AR.js-Docs/
 
 8thwall - https://www.8thwall.com/pricing
 
+face-api.js - https://justadudewhohacks.github.io/face-api.js/docs/index.html
+
 # Uncompatible
 
 호환되지 않거나 일부 기능이 제한됨.
