@@ -65,6 +65,8 @@ Tesseract - https://github.com/Neelarghya/tesseract-unity
 
 UnityYoutubePlayer - https://github.com/iBicha/UnityYoutubePlayer
 
+videokit - https://github.com/videokit-ai/videokit
+
 ## Unity-GPS
 
 Mapbox - https://docs.mapbox.com/unity/maps/guides/
