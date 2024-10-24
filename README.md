@@ -112,6 +112,7 @@ unity-google-drive - https://github.com/elringus/unity-google-drive/tree/main
 # Uncompatible
 
 호환되지 않거나 일부 기능이 제한됨.
+하드웨어 자체의 문제라기보다 AppContainer 등 기존 앱 문제로 인해 안되는걸로 추정되기 때문에 별도의 방법이 필요할 수 있음.
 
 AR Foundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/index.html
 
