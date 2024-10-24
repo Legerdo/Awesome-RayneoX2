@@ -59,6 +59,8 @@ whisper.unity - https://github.com/Macoron/whisper.unity
 
 Google AI - https://cloud.google.com/speech-to-text
 
+UnitySpeechToText - https://github.com/yasirkula/UnitySpeechToText
+
 ## Unity-OCR
 
 Tesseract - https://github.com/Neelarghya/tesseract-unity
