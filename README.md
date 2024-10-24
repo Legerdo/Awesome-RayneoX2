@@ -59,6 +59,8 @@ whisper.unity - https://github.com/Macoron/whisper.unity
 
 Google AI - https://cloud.google.com/speech-to-text
 
+SpeechRecognizer - https://developer.android.com/reference/android/speech/SpeechRecognizer
+
 UnitySpeechToText - https://github.com/yasirkula/UnitySpeechToText
 
 voice-sdk - https://developers.meta.com/horizon/documentation/unity/voice-sdk-overview
