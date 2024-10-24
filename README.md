@@ -4,31 +4,31 @@ Rayneo X2 관련 프로젝트에서 사용할만한 유용한 라이브러리( �
 
 # 목차
  
-- [Unity-Compatible](#Unity)
-    - [Unity-AR](#Unity-AR)
-    - [Unity-ML](#Unity-ML)
-    - [Unity-AI](#Unity-AI)
-    - [Unity-STT](#Unity-STT)
-    - [Unity-OCR](#Unity-OCR)
-    - [Unity-Video](#Unity-Video)
-    - [Unity-GPS](#Unity-GPS)
-    - [Unity-Webview](#Unity-Webview)
-    - [Unity-Keyboard](#Unity-Keyboard)
-    - [Unity-Storage](#Unity-Storage)
+- [Compatible](#Compatible)
+    - [AR](#AR)
+    - [ML](#ML)
+    - [AI](#AI)
+    - [STT](#STT)
+    - [OCR](#OCR)
+    - [Video](#Video)
+    - [GPS](#GPS)
+    - [Webview](#Webview)
+    - [Keyboard](#Keyboard)
+    - [Storage](#Storage)
 
 - [Uncompatible](#Uncompatible)
 
 - [Information](#Information)
 
-# Unity-Compatible
+# Compatible
 
-## Unity-WebRTC
+## WebRTC
 
 Unity Webrtc - https://github.com/Unity-Technologies/com.unity.webrtc
 
 WebRTC Video Chat - https://assetstore.unity.com/packages/tools/network/webrtc-video-chat-68030
 
-## Unity-AR
+## AR
 
 Vuforia - https://developer.vuforia.com/home
 
@@ -37,7 +37,7 @@ Maxst - https://maxst.com/AR_Platform/
 EasyAR - https://www.easyar.com</br>
 EasyAR Extension Example - https://leiniao-ibg.feishu.cn/file/UhQob7gDGoFISxxaymCciEQ8nko
 
-## Unity-ML
+## ML
 
 Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
 
@@ -47,13 +47,13 @@ OpenCV - https://assetstore.unity.com/packages/tools/integration/opencv-for-unit
 
 Android/ML Kit - https://developers.google.com/ml-kit
 
-## Unity-AI
+## AI
 
 OpenAI - https://github.com/RageAgainstThePixel/com.openai.unity
 
 OpenAI-Unity - https://github.com/srcnalt/OpenAI-Unity
 
-## Unity-STT
+## STT
 
 whisper.unity - https://github.com/Macoron/whisper.unity
 
@@ -65,17 +65,17 @@ UnitySpeechToText - https://github.com/yasirkula/UnitySpeechToText
 
 voice-sdk - https://developers.meta.com/horizon/documentation/unity/voice-sdk-overview
 
-## Unity-OCR
+## OCR
 
 Tesseract - https://github.com/Neelarghya/tesseract-unity
 
-## Unity-Video
+## Video
 
 UnityYoutubePlayer - https://github.com/iBicha/UnityYoutubePlayer
 
 videokit - https://github.com/videokit-ai/videokit
 
-## Unity-GPS
+## GPS
 
 Mapbox - https://docs.mapbox.com/unity/maps/guides/
 
@@ -87,7 +87,7 @@ Cesium - https://cesium.com/platform/cesium-for-unity/
 
 Online Maps v3 - https://assetstore.unity.com/packages/tools/integration/online-maps-v3-138509
 
-## Unity-Webview
+## Webview
 
 TLabWebView - https://github.com/TLabAltoh/TLabWebView
 
@@ -97,13 +97,13 @@ gree/Webview - https://github.com/gree/unity-webview/tree/experimental/unity-ove
 
 UniWebView 5 - https://docs.uniwebview.com/guide/render-as-texture.html
 
-## Unity-Keyboard
+## Keyboard
 
 Custom UI/VR keyboard - https://assetstore.unity.com/packages/tools/input-management/custom-ui-vr-keyboard-205464
 
 TLabVKeyborad - https://github.com/TLabAltoh/TLabVKeyborad
 
-## Unity-Storage
+## Storage
 
 dropbox-sdk-dotnet - https://github.com/dropbox/dropbox-sdk-dotnet
 
