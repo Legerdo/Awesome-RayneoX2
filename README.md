@@ -61,6 +61,8 @@ Google AI - https://cloud.google.com/speech-to-text
 
 UnitySpeechToText - https://github.com/yasirkula/UnitySpeechToText
 
+voice-sdk - https://developers.meta.com/horizon/documentation/unity/voice-sdk-overview
+
 ## Unity-OCR
 
 Tesseract - https://github.com/Neelarghya/tesseract-unity
