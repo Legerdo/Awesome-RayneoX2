@@ -127,7 +127,7 @@ Google Play Services - FusedLocationProviderClient 같은 GPS 서비스도 사�
 Bluetooth - 링 및 휴대폰을 제외한 다른 기기와의 연결이 원활하지 않음 </br>
 
 Notifications / Background Task / Multitasking</br>
-Native App - SoftKeyboard, Camera, Storage Etc..
+Native App - SoftKeyboard, Camera, Storage Etc.. - UI 일부가 짤리거나 충돌이 발생
 
 # Information
 RayneoX2와 직접 관련이 없더라도 아이디어를 얻을 수 있는 정보 및 에셋/앱 정리
