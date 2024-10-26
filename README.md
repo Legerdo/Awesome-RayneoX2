@@ -55,6 +55,8 @@ OpenAI-Unity - https://github.com/srcnalt/OpenAI-Unity
 
 Claudia - https://github.com/Cysharp/Claudia
 
+Anthropic.SDK - https://github.com/tghamm/Anthropic.SDK
+
 ## STT
 
 whisper.unity - https://github.com/Macoron/whisper.unity
