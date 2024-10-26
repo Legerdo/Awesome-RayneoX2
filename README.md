@@ -53,6 +53,8 @@ OpenAI - https://github.com/RageAgainstThePixel/com.openai.unity
 
 OpenAI-Unity - https://github.com/srcnalt/OpenAI-Unity
 
+Claudia - https://github.com/Cysharp/Claudia
+
 ## STT
 
 whisper.unity - https://github.com/Macoron/whisper.unity
