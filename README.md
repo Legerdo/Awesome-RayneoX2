@@ -71,6 +71,8 @@ UnitySpeechToText - https://github.com/yasirkula/UnitySpeechToText
 
 voice-sdk - https://developers.meta.com/horizon/documentation/unity/voice-sdk-overview
 
+voice-activity-detection-unity - https://github.com/mochi-neko/voice-activity-detection-unity
+
 ## OCR
 
 Tesseract - https://github.com/Neelarghya/tesseract-unity
