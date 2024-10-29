@@ -57,6 +57,8 @@ Claudia - https://github.com/Cysharp/Claudia
 
 Anthropic.SDK - https://github.com/tghamm/Anthropic.SDK
 
+huggingface - https://github.com/huggingface/unity-api
+
 ## STT
 
 whisper.unity - https://github.com/Macoron/whisper.unity
