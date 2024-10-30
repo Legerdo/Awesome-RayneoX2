@@ -156,6 +156,7 @@ I-XRAY - https://www.youtube.com/watch?v=gHrSXe1cElI
 Mobile Bluetooth Controller</br>
 https://play.google.com/store/apps/details?id=io.appground.blek / https://play.google.com/store/apps/details?id=io.appground.blekpremium</br>
 https://play.google.com/store/apps/details?id=com.jb.bluetoothbuttons</br>
-https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect
+https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect</br>
+https://play.google.com/store/apps/details?id=io.port6.watchbridge
 
 AI Face Detection - https://www.youtube.com/watch?v=yIImVW9m2lY
