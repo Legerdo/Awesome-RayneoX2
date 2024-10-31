@@ -160,3 +160,5 @@ https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect</br
 https://play.google.com/store/apps/details?id=io.port6.watchbridge
 
 AI Face Detection - https://www.youtube.com/watch?v=yIImVW9m2lY
+
+awesome-smartglasses - https://github.com/ramashwin/awesome-smartglasses
