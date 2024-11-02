@@ -98,6 +98,8 @@ Cesium - https://cesium.com/platform/cesium-for-unity/
 
 Online Maps v3 - https://assetstore.unity.com/packages/tools/integration/online-maps-v3-138509
 
+here-sdk - https://www.here.com/platform/here-sdk
+
 ## Webview
 
 TLabWebView - https://github.com/TLabAltoh/TLabWebView
