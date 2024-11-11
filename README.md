@@ -48,8 +48,7 @@ OpenCV - https://assetstore.unity.com/packages/tools/integration/opencv-for-unit
 
 Android/ML Kit - https://developers.google.com/ml-kit
 
-Sentis - https://docs.unity3d.com/Packages/com.unity.sentis@2.1/manual/index.html</br>
-https://huggingface.co/unity
+Sentis - https://docs.unity3d.com/Packages/com.unity.sentis@2.1/manual/index.html / https://huggingface.co/unity
 
 ## AI
 
