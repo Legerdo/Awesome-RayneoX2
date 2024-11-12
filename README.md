@@ -52,9 +52,13 @@ Sentis - https://docs.unity3d.com/Packages/com.unity.sentis@2.1/manual/index.htm
 
 ## AI
 
+OpenAI Official - https://platform.openai.com/docs/overview
+
 OpenAI - https://github.com/RageAgainstThePixel/com.openai.unity
 
 OpenAI-Unity - https://github.com/srcnalt/OpenAI-Unity
+
+Claudia Official - https://docs.anthropic.com/en/docs/welcome
 
 Claudia - https://github.com/Cysharp/Claudia
 
