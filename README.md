@@ -152,9 +152,8 @@ Notifications / Background Task / Multitasking</br>
 Native App - SoftKeyboard, Camera, Storage Etc.. - UI 일부가 짤리거나 충돌이 발생
 
 # Information
-RayneoX2와 직접 관련이 없더라도 아이디어를 얻을 수 있는 정보 및 에셋/앱 정리
 
-Official Document</br>
+RayneoX2 Official Document</br>
 https://open.rayneo.com/#/docs/x2</br>
 https://leiniao-ibg.feishu.cn/wiki/IwTRwecN0ikZcjkHAhicN5lWn0g
 
@@ -167,5 +166,3 @@ https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect</br
 https://play.google.com/store/apps/details?id=io.port6.watchbridge
 
 AI Face Detection - https://www.youtube.com/watch?v=yIImVW9m2lY
-
-awesome-smartglasses - https://github.com/ramashwin/awesome-smartglasses
