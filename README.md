@@ -1,5 +1,5 @@
 # Awesome-SmartGlassesAppDev
-단독 구동되는 안드로이드 OS 기반 스마트 안경 (Rayneo X2 ) 관련 프로젝트에서 사용할만한</br>
+단독 구동되는 안드로이드 OS 기반 스마트 안경 (Rayneo X2, Inmo Air, Vuzix Blade 등등 ) 관련 프로젝트에서 사용할만한</br>
 유용한 라이브러리 목록( 유니티 위주로 작성 )</br>
 해당 기기의 카메라 모드가 3DOF, 6DOF 여부에 따라 호환이 안될 수 있으므로 직접 수정해야함.
 
