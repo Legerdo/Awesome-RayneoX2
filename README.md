@@ -49,6 +49,7 @@ TensorFlow Lite - https://github.com/asus4/tf-lite-unity-sample
 OpenCV - https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
 
 Android/ML Kit - https://developers.google.com/ml-kit
+vision - https://cloud.google.com/vision
 
 Sentis - https://docs.unity3d.com/Packages/com.unity.sentis@2.1/manual/index.html / https://huggingface.co/unity
 
