@@ -38,7 +38,7 @@ Vuforia - https://developer.vuforia.com/home
 Maxst - https://maxst.com/AR_Platform/
 
 EasyAR - https://www.easyar.com</br>
-EasyAR Extension Example - https://leiniao-ibg.feishu.cn/file/UhQob7gDGoFISxxaymCciEQ8nko
+EasyAR Extension Example(RayneoX2) - https://leiniao-ibg.feishu.cn/file/UhQob7gDGoFISxxaymCciEQ8nko
 
 ## ML
 
@@ -172,4 +172,4 @@ https://play.google.com/store/apps/details?id=com.jb.bluetoothbuttons</br>
 https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect</br>
 https://play.google.com/store/apps/details?id=io.port6.watchbridge
 
-AI Face Detection - https://www.youtube.com/watch?v=yIImVW9m2lY
+AI Face Detection(Tutorial) - https://www.youtube.com/watch?v=yIImVW9m2lY
