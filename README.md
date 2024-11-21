@@ -85,6 +85,10 @@ voice-sdk - https://developers.meta.com/horizon/documentation/unity/voice-sdk-ov
 
 voice-activity-detection-unity - https://github.com/mochi-neko/voice-activity-detection-unity
 
+CLOVA - https://www.ncloud.com/product/aiService/csr
+
+리턴제로 - https://www.rtzr.ai/
+
 ## OCR
 
 Tesseract - https://github.com/Neelarghya/tesseract-unity
