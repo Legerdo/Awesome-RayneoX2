@@ -39,6 +39,10 @@ Maxst - https://maxst.com/AR_Platform/
 EasyAR - https://www.easyar.com</br>
 EasyAR Extension Example(RayneoX2) - https://leiniao-ibg.feishu.cn/file/UhQob7gDGoFISxxaymCciEQ8nko
 
+Arunityx - https://github.com/artoolkitx/arunityx
+
+
+
 ## ML
 
 Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
