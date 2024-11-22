@@ -157,9 +157,7 @@ Supabase - https://supabase.com/
 
 호환되지 않거나 일부 기능이 제한됨(하드웨어 자체의 문제라기보다 RayneoOS/AppContainer 등 OS, 앱 문제로 인해 안되는걸로 추정되기 때문에 별도의 방법이 필요할 수 있음)
 
-AR Foundation</br>
-Snapdragon Spaces</br>
-Sceneview/AR Core</br>
+Sceneview/AR Core, Snapdragon Spaces, Lightship, AR Foundation</br>
 Google Play Services - FusedLocationProviderClient 같은 GPS 서비스도 사용이 불가능</br>
 Bluetooth - 링 및 휴대폰을 제외한 다른 기기와의 연결이 원활하지 않음 </br>
 Notifications / Background Task / Multitasking</br>
