@@ -43,6 +43,10 @@ ARFoundation - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.1/m
 
 Arunityx - https://github.com/artoolkitx/arunityx
 
+Lightship - https://lightship.dev/docs/ardk/setup/
+
+Snapdragon Spaces - https://spaces.qualcomm.com/developer/ar-sdk/
+
 ## ML
 
 Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
