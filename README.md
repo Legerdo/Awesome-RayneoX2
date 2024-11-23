@@ -89,7 +89,7 @@ SpeechRecognizer - https://developer.android.com/reference/android/speech/Speech
 
 UnitySpeechToText - https://github.com/yasirkula/UnitySpeechToText
 
-voice-sdk - https://developers.meta.com/horizon/documentation/unity/voice-sdk-overview
+voice-sdk - https://developers.meta.com/horizon/documentation/unity/voice-sdk-overview / https://assetstore.unity.com/packages/tools/integration/meta-voice-sdk-immersive-voice-commands-264555
 
 voice-activity-detection-unity - https://github.com/mochi-neko/voice-activity-detection-unity
 
