@@ -79,6 +79,10 @@ huggingface - https://github.com/huggingface/unity-api
 
 Perplexity API - https://docs.perplexity.ai/home
 
+Gemini Official - https://ai.google.dev/
+
+UGemini - https://github.com/Uralstech/UGemini
+
 ## STT
 
 whisper.unity - https://github.com/Macoron/whisper.unity
