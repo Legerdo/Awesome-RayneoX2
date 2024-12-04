@@ -6,7 +6,7 @@
  
 - [Compatible](#Compatible)
     - [AR](#AR)
-    - [ML/OCR](#ML/OCR)
+    - [ML/OCR](#ML_OCR)
     - [AI](#AI)
     - [STT](#STT)
     - [Video](#Video)
@@ -45,7 +45,7 @@ Lightship - https://lightship.dev/docs/ardk/setup/
 
 Snapdragon Spaces - https://spaces.qualcomm.com/developer/ar-sdk/
 
-## ML/OCR
+## ML_OCR
 
 Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
 
