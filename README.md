@@ -6,10 +6,9 @@
  
 - [Compatible](#Compatible)
     - [AR](#AR)
-    - [ML](#ML)
+    - [ML](#ML/OCR)
     - [AI](#AI)
     - [STT](#STT)
-    - [OCR](#OCR)
     - [Video](#Video)
     - [GPS](#GPS)
     - [Webview](#Webview)
@@ -46,7 +45,7 @@ Lightship - https://lightship.dev/docs/ardk/setup/
 
 Snapdragon Spaces - https://spaces.qualcomm.com/developer/ar-sdk/
 
-## ML
+## ML/OCR
 
 Mediapipe - https://github.com/homuler/MediaPipeUnityPlugin
 
@@ -59,6 +58,8 @@ Android/ML Kit - https://developers.google.com/ml-kit
 vision - https://cloud.google.com/vision
 
 Sentis - https://docs.unity3d.com/Packages/com.unity.sentis@2.1/manual/index.html / https://huggingface.co/unity
+
+Tesseract - https://github.com/Neelarghya/tesseract-unity
 
 ## AI
 
@@ -99,10 +100,6 @@ voice-activity-detection-unity - https://github.com/mochi-neko/voice-activity-de
 CLOVA - https://www.ncloud.com/product/aiService/csr
 
 리턴제로 - https://www.rtzr.ai/
-
-## OCR
-
-Tesseract - https://github.com/Neelarghya/tesseract-unity
 
 ## Video
 
