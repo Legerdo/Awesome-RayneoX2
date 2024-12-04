@@ -83,6 +83,8 @@ Claudia Official - https://docs.anthropic.com/en/docs/welcome
 
 Claudia - https://github.com/Cysharp/Claudia
 
+together.ai - https://www.together.ai/
+
 Anthropic.SDK - https://github.com/tghamm/Anthropic.SDK
 
 huggingface - https://github.com/huggingface/unity-api
