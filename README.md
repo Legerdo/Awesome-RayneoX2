@@ -6,7 +6,7 @@
  
 - [Compatible](#Compatible)
     - [AR](#AR)
-    - [ML](#ML/OCR)
+    - [ML/OCR](#ML/OCR)
     - [AI](#AI)
     - [STT](#STT)
     - [Video](#Video)
