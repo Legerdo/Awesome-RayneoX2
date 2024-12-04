@@ -63,6 +63,8 @@ vision - https://cloud.google.com/vision
 
 ai-vision - https://azure.microsoft.com/ko-kr/products/ai-services/ai-vision
 
+AI Vision - https://www.oracle.com/artificial-intelligence/vision/
+
 CLOVA OCR - https://www.ncloud.com/product/aiService/ocr
 
 GO AI OCR - https://www.gridone.co.kr/ko/solution/ai
