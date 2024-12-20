@@ -170,6 +170,7 @@ Native App - SoftKeyboard, Camera, Storage Etc.. - UI 일부가 짤리거나 충
 # Information
 
 Android XR - https://developer.android.com/develop/xr
+</br>https://www.youtube.com/watch?v=UhDx9NMqT7o&t=1s
 
 RayneoX2 Official Document</br>
 https://open.rayneo.com/#/docs/x2</br>
